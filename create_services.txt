@@ -1,0 +1,29 @@
+
+{
+   "author":"Chinua Achebe",
+   "country":"Nigeria",
+   "description":"The misty forest of El Triunfo is a magical forest. As soon as you start walking along the trails that take you up the mountain, you already find small gifts from nature, like colorful mushrooms growing among the leaves, the traces of a jaguar, green landscapes sheltered by fog and, if you’re lucky, the fantastic flight of a quetzal. In addition, as you progress, you are able to see again with the eyes of the soul, your heart makes contact with the spirit of the forest, and you feel the energy that emanates from the trees and the streams of transparent water.That is when you can experience the deeper magic that is hidden in the forest. It is a magic so powerful, that it enchants your memory so that you may never forget these landscapes, that gifts you bird songs capable of making you smile in difficult times, and that allows you to discover the wonderful beings that live there, like the forest elves, who watch over to make sure life continues to floursh in this fantastic territory.",
+   "gradeLevel":1,
+   "id":1,
+   "imageLink":"https://firebasestorage.googleapis.com/v0/b/comic-app-d839d.appspot.com/o/VComics_Image_Data%2FA%20Magical%20Forest%2FA%20Magical%20Forest_page-0001.jpg?alt=media&token=5f3d6fb8-db46-44bb-8df1-4807a89eb682",
+   "images":[
+      "https://firebasestorage.googleapis.com/v0/b/comic-app-d839d.appspot.com/o/VComics_Image_Data%2FA%20Magical%20Forest%2FA%20Magical%20Forest_page-0002.jpg?alt=media&token=78e247ce-9703-459a-a79c-67621839709a"
+   ],
+   "language":"English",
+   "link":"https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+   "pages":209,
+   "price":3,
+   "publishers":"Marvel",
+   "quizAvailability":false,
+   "title":"A Magical Forest",
+   "year":1958
+}
+
+
+
+
+
+
+
+
+
